@@ -2,4 +2,4 @@
 
 # oppipullautin-importer
 
-Tool to import material into elasticsearch index for oppipullautin.
+Tool to scrape and import material into elasticsearch index for oppipullautin.
