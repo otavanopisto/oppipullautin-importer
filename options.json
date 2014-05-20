@@ -1,0 +1,16 @@
+{
+    "urls": [
+             "http://opinnot.internetix.fi/fi/muikku2materiaalit/peruskoulu/ma/ma1/1_peruslaskutoimitukset/01?C:D=iTrl.iRKi&m:selres=iTrl.iRKi",
+             "http://opinnot.internetix.fi/fi/muikku2materiaalit/peruskoulu/ma/ma1/1_peruslaskutoimitukset/02?C:D=iTrl.iRKq&m:selres=iTrl.iRKq",
+             "http://opinnot.internetix.fi/fi/muikku2materiaalit/peruskoulu/ma/ma1/1_peruslaskutoimitukset/03?C:D=iTrl.iRKI&m:selres=iTrl.iRKI",
+             "http://opinnot.internetix.fi/fi/muikku2materiaalit/peruskoulu/ma/ma1/1_peruslaskutoimitukset/04?C:D=iTrl.iRKJ&m:selres=iTrl.iRKJ",
+             "http://opinnot.internetix.fi/fi/muikku2materiaalit/peruskoulu/ma/ma1/1_peruslaskutoimitukset/05?C:D=iTrl.iRLa&m:selres=iTrl.iRLa"
+             
+    ],
+    "tags": [
+        "peruskoulu",
+        "matematiikka",
+        "Peruslaskutoimitukset"
+    ],
+    "selector": "#genMaterials"
+}

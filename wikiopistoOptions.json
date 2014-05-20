@@ -1,0 +1,15 @@
+{
+    "urls": [
+        "http://fi.wikiversity.org/wiki/Avoimet_verkostot_-opintokokonaisuus/Uusia_nettiammatteja",
+        "http://fi.wikiversity.org/wiki/Avoimet_verkostot_-opintokokonaisuus/Nettimaine"
+             
+    ],
+    "tags": [
+        "wikiopisto"
+    ],
+    "ignoreTags" : [
+         "Lisää aiheesta"
+         
+    ],
+    "selector": "#mw-content-text"
+}

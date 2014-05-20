@@ -1,0 +1,11 @@
+{
+     "name": "oppipullautin-importer",
+     "description": "Used to import data and index data for oppipullautin",
+     "version": "0.0.1",
+     "dependencies": {
+        "broadway": "",
+        "request": "",
+        "cheerio": "",
+        "elasticsearch": ""	
+     }
+}
